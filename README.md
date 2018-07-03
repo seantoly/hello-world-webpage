@@ -1,8 +1,7 @@
 # Toly Creative
 Thanks for visiting my GitHub website!
-This is my GitHub project. 
-As a work in progress it will be constantly changing.
+This is my GitHub project.
 ## https://github.com/seantoly/hello-world-webpage/wiki/Toly-Creative
-My actual website is:
+My website is:
 ## http://www.tolycreative.com
 
