@@ -13,7 +13,7 @@ My website is:
 This is a link to a travel blog was created to keep track of our adventures while out siteseeing. 
 
 The webpage is:
-[Toly Creative](http://www.tolycreative.com/travel.html)
+[Toly Creative travel blog](http://www.tolycreative.com/travel.html)
 
 My Linkedin webpage is:
 
