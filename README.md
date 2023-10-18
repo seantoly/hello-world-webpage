@@ -11,5 +11,5 @@ My website is:
 [Toly Creative](http://www.seantoly.wordpress.com)
 
 My Linkedin webpage is:
-[Sean Toly's Linkedin Profile](https://www.linkedin.com/in/sean-toly-10921a133/)
+[Linkedin Profile](https://www.linkedin.com/in/sean-toly-10921a133/)
 
